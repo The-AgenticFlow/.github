@@ -1,4 +1,4 @@
-![The-AgenticFlow banner: We harness agents and their various flows for better agent experiences.](./assets/the-agenticflow-banner.png)
+![The-AgenticFlow banner: We harness agents and their various flows to build better agent experiences.](./assets/agenticflow-org-banner.png)
 
 # The-AgenticFlow
 
